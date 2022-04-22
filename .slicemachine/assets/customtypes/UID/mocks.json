@@ -1,0 +1,21 @@
+{
+  "id": "c5d6822c-cff2-4063-a770-eb794165488d",
+  "uid": "ut-unde-iusto",
+  "type": "UID",
+  "data": {
+    "title": [
+      {
+        "type": "paragraph",
+        "text": "Voluptate ea consequat ipsum nisi anim. Aliqua dolor dolor quis anim excepteur aute incididunt sit proident nulla esse do pariatur excepteur labore.",
+        "spans": []
+      }
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Veniam ipsum eiusmod reprehenderit nostrud dolore excepteur anim exercitation minim est irure culpa dolor laboris.",
+        "spans": []
+      }
+    ]
+  }
+}
